@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AdmobExample</string>
+    <string name="banner_ads_unitid">ca-app-pub-4015192773478731/6329638406</string>
+    <string name="interstitial_ads_unitid">ca-app-pub-4015192773478731/1759838009</string>
+
+</resources>
